@@ -1,0 +1,45 @@
+body {
+  font: 14pt Arial;
+}
+
+.main {
+  text-align: center;
+}
+
+.characteristics {
+  margin: 30px;
+}
+
+.link a {
+  background-color: #DEDEDE;
+  margin: 0px 15px;
+  padding: 35px 55px;
+  border-radius: 15px;
+  text-align: center;
+  color: black;
+  font-weight: bold;
+}
+
+.link {
+  padding: 35px 0px;
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.photo img {
+  border-radius: 15px;
+  width: 200px;
+}
+
+.teacher {
+  background-color: #DEDEDE;
+  border-radius: 15px;
+  display: flex;
+  margin: 40px 40px;
+  padding: 30px 30px;
+  text-align: justify;
+}
+
+.docs {
+  
+}
